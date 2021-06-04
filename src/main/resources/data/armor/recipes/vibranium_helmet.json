@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:netherite_helmet"
+    },
+    "addition": {
+        "item": "armor:vibranium_ingot"
+    },
+    "result": {
+        "item": "armor:vibranium_helmet"
+    }
+}	

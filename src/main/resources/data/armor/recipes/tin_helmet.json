@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "i i"
+    ],
+    "key": {
+        "i": {
+            "item": "armor:tin_ingot"
+        }
+    },
+    "result": {
+        "item": "armor:tin_helmet",
+        "count": 1
+    }
+}

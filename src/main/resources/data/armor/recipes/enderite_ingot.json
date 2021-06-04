@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "armor:enderite_scrap"
+    },
+    {
+      "item": "armor:enderite_scrap"
+    },
+    {
+      "item": "armor:enderite_scrap"
+    },
+    {
+      "item": "armor:vibranium_ingot"
+    },
+    {
+      "item": "armor:vibranium_ingot"
+    },
+    {
+      "item": "armor:enderite_scrap"
+    },
+    {
+      "item": "armor:vibranium_ingot"
+    },
+    {
+      "item": "armor:vibranium_ingot"
+    }
+  ],
+  "result": {
+    "item": "armor:enderite_ingot",
+    "count": 1
+  }
+}

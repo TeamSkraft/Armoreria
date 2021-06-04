@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "armor:vibranium_leggings"
+    },
+    "addition": {
+        "item": "armor:enderite_ingot"
+    },
+    "result": {
+        "item": "armor:enderite_leggings"
+    }
+}	
