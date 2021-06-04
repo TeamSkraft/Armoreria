@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+[[mods]]
+modId="armor"
+version="1.0.0 - 1.16.4"
+displayName="Armoreria"
+displayURL=""
+logoFile="logo.png" 
+credits="Thanks to TurtyWurty for teaching how to make this mod"
+authors="Team SKraft"
+description='''
+This mod consists 7 new sets of armors!!
+'''
