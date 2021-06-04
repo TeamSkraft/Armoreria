@@ -1,0 +1,56 @@
+{
+  "item.armor.tin_ingot": "Tin Ingot",
+  "item.armor.endur_ingot": "Ender Ingot",
+  "item.armor.enderite_scrap": "Enderite Scrape",
+  "item.armor.enderite_ingot": "Enderite Ingot",
+  "item.armor.vibranium_ingot": "Vibranium Ingot",
+  "item.armor.repairer": "Repairer",
+  
+  "itemGroup.mod_items": "Mod Items",
+  "itemGroup.armory_items": "Armory",
+
+  "block.armor.tin_ore": "Tin Ore",
+  "block.armor.ender_ore": "Ender Ore",
+  "block.armor.enderite_debris": "Enderite Debris",
+  
+  "item.armor.vibranium_sword": "Vibranium Sword",
+  "item.armor.vibranium_pickaxe": "Vibranium Pickaxe",
+  "item.armor.vibranium_axe": "Vibranium Axe",
+  "item.armor.vibranium_shovel": "Vibranium Shovel",
+  "item.armor.vibranium_hoe": "Vibranium Hoe",
+
+  "item.armor.vibranium_helmet" : "Vibranium Helmet",
+  "item.armor.vibranium_chestplate" : "Vibranium Chestplate",
+  "item.armor.vibranium_leggings" : "Vibranium Leggings",
+  "item.armor.vibranium_boots" : "Vibranium Boots",
+  
+  "item.armor.enderite_helmet" : "Enderite Helmet",
+  "item.armor.enderite_chestplate" : "Enderite Chestplate",
+  "item.armor.enderite_leggings" : "Enderite Leggings",
+  "item.armor.enderite_boots" : "Enderite Boots",
+  
+  "item.armor.heavy_iron_helmet" : "Heavy Iron Helmet",
+  "item.armor.heavy_iron_chestplate" : "Heavy Iron Chestplate",
+  "item.armor.heavy_iron_leggings" : "Heavy Iron Leggings",
+  "item.armor.heavy_iron_boots" : "Heavy Iron Boots",
+  
+  "item.armor.heavy_gold_helmet" : "Heavy Gold Helmet",
+  "item.armor.heavy_gold_chestplate" : "Heavy Gold Chestplate",
+  "item.armor.heavy_gold_leggings" : "Heavy Gold Leggings",
+  "item.armor.heavy_gold_boots" : "Heavy Gold Boots",
+  
+  "item.armor.wood_helmet" : "Wood Helmet",
+  "item.armor.wood_chestplate" : "Wood Chestplate",
+  "item.armor.wood_leggings" : "Wood Leggings",
+  "item.armor.wood_boots" : "Wood Boots",
+  
+  "item.armor.stone_helmet" : "Stone Helmet",
+  "item.armor.stone_chestplate" : "Stone Chestplate",
+  "item.armor.stone_leggings" : "Stone Leggings",
+  "item.armor.stone_boots" : "Stone Boots",
+    
+  "item.armor.tin_helmet" : "Tin Helmet",
+  "item.armor.tin_chestplate" : "Tin Chestplate",
+  "item.armor.tin_leggings" : "Tin Leggings",
+  "item.armor.tin_boots" : "Tin Boots"
+}
