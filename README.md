@@ -8,4 +8,18 @@ This Mod consists if 7 new sets of armor which are -
   Stone Armor - Crafted with cobblestone a starter armor
 
 New items -
+  Enderite Ingot
+  Enderite Scrap
+  Ender Ingot
+  Repairer - Used to repair heavy iron, heavy gold, wooden, stone armors in anvil
+  Tin Ingot
+  Vibranium Ingot
   
+New Ores - 
+  Ender Debris
+  Ender Ore
+  Tin Ore
+  
+Ores generate in the overworld for the ease of finding it however the ores are rare and found between y level 0 and 30.
+
+For other information check the video in my channel.
