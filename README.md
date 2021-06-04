@@ -41,3 +41,4 @@ New Ores -
 Ores generate in the overworld for the ease of finding it however the ores are rare and found between y level 0 and 30.
 
 For other information check the video in my channel.
+https://www.youtube.com/channel/UCv6kS3OPyaRL-96tU5tXkHA
